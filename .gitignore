@@ -1,0 +1,3 @@
+storage/*
+nodemon.json
+node_modules
